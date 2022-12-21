@@ -35,3 +35,11 @@ This is housing price dataset is from [Kaggle: california-housing-prices](https:
 Booking data is from [Inside AirBnb](http://insideairbnb.com/get-the-data/). This graph show part of the pricing and location for each AirBnB host in NYC area, and it is also a course project for CS 148M
 ![image](https://user-images.githubusercontent.com/76094159/208978251-4e2fe33b-faf2-44aa-9f90-cfed75cdfa02.png)
 
+## 5) Sales prediction and Business intelligence
+[The detailed repo here](https://github.com/frank-1150/CS-148M-Project-3)
+
+
+![image](https://user-images.githubusercontent.com/76094159/208984544-bd1345ed-49a5-402d-89b9-efef7376e03f.png)
+![image](https://user-images.githubusercontent.com/76094159/208984549-aafbc198-acdf-4187-9055-5da7682a5585.png)
+![image](https://user-images.githubusercontent.com/76094159/208984553-4720c1f9-7696-4f2f-932e-7060ef1a825a.png)
+
