@@ -15,6 +15,10 @@ Prior to join tech industry, I was a data scientist researching about implicit m
 
 The left graph is a regression done in Tableau and the right is a graph doing cumulative counting on time series.
 
+The following graph is a backtesting result for one of our quant trading strategy, showing the same strategy performance with different parameters and their comparison with Bitcoin performance.
+![image](https://user-images.githubusercontent.com/76094159/208978901-447fb047-418b-4cc3-9337-541bd180f2e5.png)
+
+
 ## 3) Machine Learning
 For Deep learning course CS260C in UCLA, this is the result of grid search on the learning rate vs Momentum for training a 15-epoch training and testing process with 2 layer fully connected Neuron network on MNIST dataset:
 
